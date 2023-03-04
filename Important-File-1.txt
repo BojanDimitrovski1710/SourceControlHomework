@@ -1,3 +1,1 @@
-Very important code, a lot of of important stuff in here
-
-Even more important stuff has been added here, although we still need to test it!
+Very important code, a lots of important stuff in here
